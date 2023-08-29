@@ -1,0 +1,8 @@
+course-files/
+**.ipynb_checkpoints/
+*.pdf
+*.zip
+*.rar
+*.7z
+*.csv
+*.txt
